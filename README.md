@@ -1,4 +1,4 @@
-### Project in which i learned to use sone new tools:
+### Project in which i learned to use some new tools:
 
 * Axios
 * Ract.js
