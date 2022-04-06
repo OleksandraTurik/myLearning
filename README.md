@@ -1,3 +1,5 @@
-# react-ts-83b7sa
+### Project in which i learned to use sone new tools:
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-83b7sa)
+* Axios
+* Ract.js
+
